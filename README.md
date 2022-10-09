@@ -3,5 +3,3 @@
 As a first PL I've chosen C, but now my mostly-used language is Java. 
 
 I'll use this GitHub for personal projects to track my progress and save the best examples of the code I've written. 
-
-
