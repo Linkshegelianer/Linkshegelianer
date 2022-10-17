@@ -5,3 +5,6 @@ As a first programming language I've chosen C, but now my mostly-used language i
 I'll use this GitHub for personal projects to track my progress and save the best examples of the code I've written.
 
 ---
+
+Languages & Tools
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
