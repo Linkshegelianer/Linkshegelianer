@@ -1,12 +1,12 @@
-<h4 align='center'> Hi, I’m @Linkshegelianer </h4>
+<h3 align='center'> Hi, I’m @Linkshegelianer </h3>
 
-<h5 align='center'>
+<h4 align='center'>
 I'm a self-taught dev currently enrolling for a CS/informatics bachelor in Europe.
 
 I'm mostly interested in charity projects aimed at improving people's lives & making this world a little better place. 
 
 Can speak 🇬🇧 🇩🇪 🇷🇺
-</h5>
+</h4>
 
 <hr>
 <div align='center'>
