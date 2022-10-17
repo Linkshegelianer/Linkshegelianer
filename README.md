@@ -1,4 +1,4 @@
-👋 Hi, I’m @Linkshegelianer. I'm a beginner currently enrolling for a CS/informatics bachelor in Europe. I've decided to start practicing by myself in advance so that I can become a good dev sooner.    
+Hi, I’m @Linkshegelianer. I'm a beginner currently enrolling for a CS/informatics bachelor in Europe. I've decided to start practicing by myself in advance so that I can become a good dev sooner.    
 
 As a first programming language I've chosen C, but now my mostly-used language is Java. 
 
@@ -20,6 +20,7 @@ I'll use this GitHub for personal projects to track my progress and save the bes
 <img align="left" alt="Git" width="20px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"/>
 <img align="left" alt="Linux" width="20px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
 </section>
+
 
 
 
