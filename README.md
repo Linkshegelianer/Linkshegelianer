@@ -1,6 +1,10 @@
-<h4 align='left'>Hi, I’m @Linkshegelianer</h4>
+<h4 align='left'>Heyo, I’m @Linkshegelianer</h4>
+
+![](https://github.com/Linkshegelianer/Linkshegelianer/blob/main/411684.160.gif)
 
 <h4 align='left'>I'm a self-taught dev currently enrolling for a CS/informatics bachelor in Europe. My GitHub profile is a way to track my study progress and store code I find useful.</h4>
+
+
 
 <hr>
 
