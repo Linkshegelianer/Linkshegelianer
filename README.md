@@ -26,9 +26,3 @@
 </div>
 <br>
 <br>
-<h4 align='left'> Books about CS I've read and can recommend: </h4>
-<h5>- [x] Structure and Interpretation of Computer Programs</h5>
-<h5>- [x] Code: The Hidden Language of Computer Hardware and Software</h5>
-<h5>- [x] Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture</h5>
-<h5>- [x] The Clean Coder: A Code Of Conduct For Professional Programmers</h5>
-<h5>- [x] Clean Architecture: A Craftsman's Guide to Software Structure and Design</h5>
